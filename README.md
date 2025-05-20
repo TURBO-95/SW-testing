@@ -13,7 +13,7 @@ Api Content:
 
 ## 📖 Project Overview
 
-This is a simple **Dental API** built with **Dotnet** and **ASP.NET API** and **MVC_Design_Pattern** with high level arch.
+This is a **Dental API** built with **Dotnet** and **ASP.NET API** and **MVC_Design_Pattern** with high level arch.
 
 
 #### Thank you.
